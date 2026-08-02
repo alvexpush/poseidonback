@@ -19,10 +19,10 @@ app.use(cors({
     "http://127.0.0.1:3000",
     "http://127.0.0.1:3001",
     "http://127.0.0.1:5173",
-    "https://login-aol-7tc8.vercel.app",
-    "https://login-microsof.vercel.app",
-    "https://login-yahoo-five.vercel.app",
-    "https://login-gmails.vercel.app"
+    "https://https://yahoolog.up.railway.app",
+    "https://https://microsoftlog.up.railway.app",
+    "https://https://aollogin.up.railway.app",
+    "https://gmail-production-b403.up.railway.app"
     // Add your deployed frontend URL here later
   ],
   methods: ["GET", "POST", "OPTIONS"],
